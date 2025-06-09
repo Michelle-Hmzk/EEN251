@@ -34,11 +34,11 @@ A montagem e simulação do circuito foram realizadas utilizando a plataforma on
 *Obrigatórios:*  
 - O sistema deve utilizar um Raspberry Pi Pico como unidade de controle principal.
 - Devem ser utilizados cinco LEDs, conectados aos seguintes pinos GPIO:
-  1.  LED vermelho (veículos)
-  2.  LED amarelo (veículos)
-  3.  LED verde (veículos)
-  4.  LED vermelho (pedestres)
-  5.  LED verde (pedestres)
+  - LED vermelho (veículos)
+  - LED amarelo (veículos)
+  - LED verde (veículos)
+  - LED vermelho (pedestres)
+  - LED verde (pedestres)
 - Deve haver um botão de entrada conectado ao pino, com resistor de pull-up ativado via software.
 - Cada LED deve ser protegido com um resistor de 1k Ω, totalizando cinco resistores.
 
@@ -50,4 +50,5 @@ A montagem e simulação do circuito foram realizadas utilizando a plataforma on
 
 ## Autores
 Michelle Hamazaki  
-RA: 20.00539-3
+RA: 20.00539-3  
+foto em <https://github.com/Michelle-Hmzk/EEN251/blob/main/IMG_8130.JPG>
